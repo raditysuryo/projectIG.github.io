@@ -1,0 +1,54 @@
+*,html{
+    margin: 0;
+}
+body{
+    margin-top: 20px;
+}
+h1,h5,p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-family:' Lobster', cursive;
+    padding-bottom: 0px;
+}
+p{
+    padding-top: 10px;
+}
+.row{
+    padding-top: 8px;
+}
+.bon{
+    border: 1px red;
+}
+.border{
+    border: solid 2px;
+    border-radius: 5px;
+    padding: 10px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+.bar{
+    border: solid 2px;
+    border-radius: 5px;
+}
+.bor{
+    border: solid 1px  rgb(221, 221, 221);
+    border-radius: 5px;
+}
+.bor a{
+    text-decoration:none;
+}
+.iya a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.img{
+    margin-top: 5px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
